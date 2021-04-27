@@ -1,12 +1,6 @@
 # Health.mine
 A health data tracker app used for extracting information from EHR records
 
-# Installation
-
-```bash
-pip install pyresparser
-```
-
 # GUI
 
 - Django used
